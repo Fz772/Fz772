@@ -39,9 +39,8 @@ Currently exploring both **frontend** and **backend** development to become a we
 
 ---
 
-## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)  
-📧 Email: *your-email@example.com*  
+## 🔗 Connect with Me  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Zann44123)
 
 ---
 
