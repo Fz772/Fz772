@@ -75,6 +75,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fz772&color=blueviolet&style=flat-square)
 
-*"Building things. Breaking limits."*
+*"Neurons that fire together. wire together -Hebb"*
 
 </div>
