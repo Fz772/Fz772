@@ -5,6 +5,7 @@
 ### Muhammad Fauzan Habibul Adha
 
 **`Building things. Breaking limits.`**
+**`Neuron that fires together,wire together. --Hebb`**
 
 [![GitHub followers](https://img.shields.io/github/followers/Fz772?style=social)](https://github.com/Fz772)
 [![YouTube](https://img.shields.io/badge/YouTube-@hz22yt-red?style=flat&logo=youtube)](https://youtube.com/@hz22yt)
